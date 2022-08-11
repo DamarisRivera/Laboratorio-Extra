@@ -6,7 +6,7 @@
 ##### NRC: 7318                                                                                                                  
 ##### FECHA: 11 – 08 – 2022
 
-## 1. Objetivos 
+## 1. OBJETIVOS 
   
 ### 1.1 Objetivo General
         
@@ -22,12 +22,12 @@
 ## 2. MARCO TEORICO 
 
 
-## 3. EXPLICACIÓN DEL PROCEDIMIENTO 
+## 3. PROCEDIMIENTO 
 
 
 
 
-## 4.VIDEO
+## 4. VIDEO
 
 
 
