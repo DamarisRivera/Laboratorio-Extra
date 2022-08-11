@@ -31,13 +31,13 @@
 
 
 
-# 5. CONCLUSIONES
+## 5. CONCLUSIONES
 
 -
 -
 -
 
 
-# 6. BIBLIOGRAFÍA
+## 6. BIBLIOGRAFÍA
 
 Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
