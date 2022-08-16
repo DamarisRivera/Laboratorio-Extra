@@ -10,14 +10,13 @@
   
 ### 1.1 Objetivo General
         
-
+Comprender y desarrollar los ejercicios plantados en el examen de laboratorio correspondiente al segundo parcial utilizando los recursos vistos en clase y más recursos virtuales como los simuladores virtuales logrando entender el procedimiento que se debe desarrollar para cada problema.
 	
 ### 1.2 Objetivos Específicos
         
--
--
--
-
+- Consultar diversas fuentes que permitan comprender el tema que será tratado para cada ejercicio.
+- Desarrollar y explicar cada problema resuelto.
+- Entender como utilizar los elementos básicos de la electrónica dentro del simulador virtual.
 
 ## 2. MARCO TEORICO 
 
@@ -60,10 +59,9 @@ EJERCICIO 3
 
 ## 5. CONCLUSIONES
 
--
--
--
-
+- Los teoremas revisados nos permiten resolver de forma más rápida diversos ejercicios prácticos, comprender como se aplican dentro de un simulador virtual nos ayuda a un mejor entendimiento y retención de la información aprendida.
+- Los problemas resueltos utilizan los conocimientos aprendidos con anterioridad por lo que es necesario revisar dichos temas para poder resolver estos y más problemas.
+- Utilizar el simulador virtual nos permite tener un acercamiento a la práctica física, que a pesar de no ser lo mismo podemos tener una idea de como funciona cada componente, creando un mejor aprendizaje.
 
 ## 6. BIBLIOGRAFÍA
 
