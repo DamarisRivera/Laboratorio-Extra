@@ -80,7 +80,11 @@ EJERCICIO 3
 
 5. Utilizando la fórmula de la potencia (P = I * V) encontramos la potencia suministrada para R3.
 
+![image](https://user-images.githubusercontent.com/105671763/184819609-b67be1b0-881b-46f3-852f-e5872b2b682b.png)
 
+	P = I*V
+	P = 3.78*8.32
+	P = 31.44 mw
 
 ## 4. VIDEO
 
