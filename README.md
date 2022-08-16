@@ -72,10 +72,11 @@ EJERCICIO 3
 
 1. Encontrar la resistencia de thévenin.
 
-
+![image](https://user-images.githubusercontent.com/105671763/184817339-c5435bac-1e67-4f6d-8105-42c2c0ba5c42.png)
 
 3. Encontrar el voltaje de Thévenin.
 
+![image](https://user-images.githubusercontent.com/105671763/184817979-ff69a33a-fc5c-4f18-8641-9d1a92bed5ce.png)
 
 5. Utilizando la fórmula de la potencia (P = I * V) encontramos la potencia suministrada para R3.
 
