@@ -50,9 +50,36 @@ EJERCICIO 2
 
 ![image](https://user-images.githubusercontent.com/105671763/184260704-d321749a-fcfa-4066-a0a2-1a6672911d34.png)
 
+1. Bloquear la fuente de 16 V.
+
+![image](https://user-images.githubusercontent.com/105671763/184813993-46947157-1459-4a7b-81e5-5e2cf70d342c.png)
+
+2.Bloquear la fuente de 10 V.
+
+![image](https://user-images.githubusercontent.com/105671763/184814057-67afe694-d1dd-49b2-9416-f119692ed030.png)
+
+3. si se resta las doa fuentes nos dan los 100 mA que pasan por R12.
+
+![image](https://user-images.githubusercontent.com/105671763/184813893-99775297-07f0-46ca-b6c2-9750d2090b67.png)
+
+4. El voltaje es de:
+
+![image](https://user-images.githubusercontent.com/105671763/184815044-374b353f-b0f7-46a5-a1f5-93aa460b9f29.png)
+
 EJERCICIO 3
 
 ![image](https://user-images.githubusercontent.com/105671763/184260776-a161102e-fcdb-4eab-99c2-553c7d3c8507.png)
+
+1. Encontrar la resistencia de thévenin.
+
+
+
+3. Encontrar el voltaje de Thévenin.
+
+
+5. Utilizando la fórmula de la potencia (P = I * V) encontramos la potencia suministrada para R3.
+
+
 
 ## 4. VIDEO
 
