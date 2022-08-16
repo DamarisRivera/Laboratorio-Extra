@@ -36,14 +36,15 @@ EJERCICIO 1
 
 2. Encontrar el Voltaje de Thevenin.
 
+![image](https://user-images.githubusercontent.com/105671763/184810564-f33b8018-c0a6-4c2b-9d15-934a9c473172.png)
 
+3. Utilizando RTH y VTH podemos encontrar la corriente en 5 Ω.
 
+![image](https://user-images.githubusercontent.com/105671763/184811999-0c682c1d-b91b-45b7-8e9c-9514a2bee0a6.png)
 
-
-Resistencia que pasa por la resistencia de 5 Ω.
+La cuál se puede comprobar al medir de esta manera la corriente en la resistencia de 5 Ω.
 
 ![image](https://user-images.githubusercontent.com/105671763/184713791-3461dd88-a3dd-4c76-ac3f-d2d39a705251.png)
-
 
 EJERCICIO 2
 
